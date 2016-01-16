@@ -1,0 +1,6 @@
+git stash #hides last changes without updating when you merge
+git stash pop #unhides the changes so it's a reversal
+git fetch upstream #bring upstream to local level? kind of a reset
+.gitignore #file that specifies what folders that you don't want
+#github pages - make your own website
+#askforhelp
